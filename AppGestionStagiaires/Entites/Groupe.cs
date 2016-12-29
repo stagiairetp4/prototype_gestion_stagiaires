@@ -7,6 +7,7 @@ namespace Entites
 {
     public class Groupe
     {
+
         public int Id { set; get; }
         public string Nom { set; get; }
     }

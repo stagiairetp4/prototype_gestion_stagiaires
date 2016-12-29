@@ -52,3 +52,6 @@ C:\Users\ESSARRAJ\Google Drive\1 - App client serveur 2017\Prototypes\EntiteFram
 C:\Users\ESSARRAJ\Google Drive\1 - App client serveur 2017\Prototypes\EntiteFrameWork\Prototype\AppGestionStagiaires\AppGestionStagiaires\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\ESSARRAJ\Google Drive\1 - App client serveur 2017\Prototypes\EntiteFrameWork\Prototype\AppGestionStagiaires\AppGestionStagiaires\bin\Debug\fr\EntityFramework.resources.dll
 C:\Users\ESSARRAJ\Google Drive\1 - App client serveur 2017\Prototypes\EntiteFrameWork\Prototype\AppGestionStagiaires\AppGestionStagiaires\obj\Debug\AppGestionStagiaires.GestionStagiaires.GridStagiaireUC.resources
+D:\projets_stagiaire_tp4\prototype_gestion_stagiaires\AppGestionStagiaires\bin\Debug\AppGestionStagiaires.exe.config
+D:\projets_stagiaire_tp4\prototype_gestion_stagiaires\AppGestionStagiaires\obj\Debug\AppGestionStagiaires.exe
+D:\projets_stagiaire_tp4\prototype_gestion_stagiaires\AppGestionStagiaires\obj\Debug\AppGestionStagiaires.pdb
